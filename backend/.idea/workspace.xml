@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ce2d42-37e5-4e62-adfb-424f2e4038b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="55ce2d42-37e5-4e62-adfb-424f2e4038b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +156,8 @@
       <updated>1597929661203</updated>
       <workItem from="1597929665083" duration="9529000" />
       <workItem from="1597945730281" duration="1775000" />
-      <workItem from="1598011100387" duration="4001000" />
+      <workItem from="1598011100387" duration="4818000" />
+      <workItem from="1598026077757" duration="553000" />
     </task>
     <servers />
   </component>

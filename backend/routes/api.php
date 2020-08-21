@@ -1,10 +1,13 @@
 <?php
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\Facades\Route;
 use App\User;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Validation\ValidationException;
+
+Broadcast::routes(['middleware' => ['auth:sanctum']]);
 
 Route::post('/sanctum/token', function (Request $request) {
     $request->validate([
