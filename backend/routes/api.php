@@ -29,6 +29,10 @@ Route::post('/sanctum/token', function (Request $request) {
 });
 
 Route::group(['middleware' => ['auth:sanctum']], function(){
+    Route::get('users', function(Request $request){
+        return User::all();
+    });
+
     Route::get('user', function(Request $request){
         return $request->user();
     });

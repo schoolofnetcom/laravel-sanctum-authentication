@@ -1,0 +1,11 @@
+
+[x] - Primeiro temos que configurar qual domínio terá acesso a autenticação via session e cookies
+[x] - Configurar arquivo app/Http/Kernel.php
+[x] - Fazer primeira requisição no SPA
+[x] - Configurar CORS do Laravel rotas
+[x] - Gerar rotas padrões do Laravel / (composer require laravel/ui)
+[x] - Rodar os comandos php artisan ui:auth e php artisan ui:controllers
+[x] - Rodar o comandos npm install e npm run dev
+[x] - Explicar configuração axios/CORS
+[x] - Entender lógica e ordem de requisições
+[x] - Tentar fazer requisição sem passar token
